@@ -1,1 +1,14 @@
+body{
+  text-align: center;
+  font-family: Arial;
+  background-color: #111;
+  color: white;
+}
 
+#pantalla {
+  width: 300px;
+  heigth: 300px;
+  background-color: red;
+  margin: 20px auto;
+  cursor: pointer;
+}
